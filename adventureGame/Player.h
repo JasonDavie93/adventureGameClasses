@@ -1,4 +1,6 @@
 #pragma once
+
+#include <String>
 class Player
 {
 public:

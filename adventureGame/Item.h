@@ -1,4 +1,5 @@
 #pragma once
+#include <String>
 class Item
 {
 public:
